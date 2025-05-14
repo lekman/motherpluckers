@@ -1,8 +1,7 @@
 # Need You Now
-
-Artist: Lady A
-Key: G
-Capo: None
+- Artist: Lady A
+- Key: G
+- Capo: None
 
 ## Chords
 

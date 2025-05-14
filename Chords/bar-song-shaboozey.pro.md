@@ -1,7 +1,7 @@
 # A Bar Song (Tipsy)
-Artist: Shaboozey
-Key: D
-Capo: 2nd fret
+- Artist: Shaboozey
+- Key: D
+- Capo: 2nd fret
 
 ## Chords
 ```

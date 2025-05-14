@@ -1,7 +1,7 @@
 # I Will Wait
-Artist: Garth Brooks
-Key: G
-Capo: None
+- Artist: Garth Brooks
+- Key: G
+- Capo: None
 
 ## Chords
 ```

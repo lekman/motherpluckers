@@ -1,8 +1,7 @@
 # If You're Going Through Hell
-
-Artist: Rodney Atkins
-Key: G
-Capo: None
+- Artist: Rodney Atkins
+- Key: G
+- Capo: None
 
 ## Chords
 

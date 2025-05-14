@@ -1,8 +1,7 @@
 # Tennessee Whiskey
-
-Artist: Chris Stapleton
-Key: G
-Capo: None
+- Artist: Chris Stapleton
+- Key: G
+- Capo: None
 
 ## Chords
 

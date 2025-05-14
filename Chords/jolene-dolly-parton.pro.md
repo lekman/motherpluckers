@@ -1,7 +1,7 @@
 # Jolene
-Artist: Dolly Parton
-Key: Cm
-Capo: 3rd fret
+- Artist: Dolly Parton
+- Key: Cm
+- Capo: 3rd fret
 
 ## Chords
 ```

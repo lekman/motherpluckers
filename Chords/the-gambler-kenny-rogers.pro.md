@@ -1,7 +1,7 @@
 # The Gambler
-Artist: Kenny Rogers
-Key: G
-Capo: None
+- Artist: Kenny Rogers
+- Key: G
+- Capo: None
 
 ## Chords
 ```

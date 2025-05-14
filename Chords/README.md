@@ -24,29 +24,27 @@ This directory contains chord charts and lyrics for all songs in our repertoire.
 
 ## File Format
 
-Each song file follows this standard format:
+Each song file should be stored in a markdown file with the `.pro.md` extension and follow this standard format:
 
 ```
 # Song Title
-
-Artist: Artist Name
-Key: Key
-Capo: Position
+- Artist: Name
+- Key: X
+- Capo: Y
 
 ## Chords
+```
 
-[ProChords content]
+ProChords content goes here
+
+```
 
 ## Notes
-
-- Performance notes
-- Special instructions
-- Arrangement details
+- ...
 
 ## References
-
-- [Ultimate Guitar Tab](link)
-- [YouTube - Original](link)
+- [Ultimate Guitar Tab](...)
+- [YouTube](...)
 ```
 
 ## File Naming Convention

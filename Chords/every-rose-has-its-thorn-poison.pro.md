@@ -1,7 +1,7 @@
 # Every Rose Has Its Thorn
-Artist: Poison
-Key: F#
-Capo: None (Tune all strings down 1/2 step)
+- Artist: Poison
+- Key: F#
+- Capo: None (Tune all strings down 1/2 step)
 
 ## Chords
 ```
