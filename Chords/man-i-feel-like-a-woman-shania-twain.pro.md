@@ -1,3 +1,4 @@
+```
 Tuning:
 [E]Ca[A]po[D]:[G][B][E]
 1st fret
@@ -135,3 +136,4 @@ Outro:
 A , G , D  X3
 
 [A]
+```
