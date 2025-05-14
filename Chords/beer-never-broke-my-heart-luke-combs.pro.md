@@ -1,7 +1,7 @@
 # Beer Never Broke My Heart
-Artist: Luke Combs
-Key: G
-Capo: None
+- Artist: Luke Combs
+- Key: G
+- Capo: None
 
 ## Chords
 ```

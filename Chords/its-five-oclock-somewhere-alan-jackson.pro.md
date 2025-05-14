@@ -1,7 +1,8 @@
 # It's Five O'Clock Somewhere
-Artist: Alan Jackson & Jimmy Buffett
-Key: G
-Capo: None
+
+- Artist: Alan Jackson & Jimmy Buffett
+- Key: G
+- Capo: None
 
 ## Chords
 ```

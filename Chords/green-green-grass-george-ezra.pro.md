@@ -1,7 +1,8 @@
 # Green Green Grass
-Artist: George Ezra
-Key: G
-Capo: None
+
+- Artist: George Ezra
+- Key: G
+- Capo: None
 
 ## Chords
 ```

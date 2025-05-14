@@ -1,7 +1,8 @@
 # Wagon Wheel
-Artist: Old Crow Medicine Show
-Key: G
-Capo: None
+
+- Artist: Old Crow Medicine Show
+- Key: G
+- Capo: None
 
 ## Chords
 ```

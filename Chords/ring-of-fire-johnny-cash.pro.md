@@ -1,3 +1,9 @@
+# Ring of Fire
+- Artist: Johnny Cash
+- Key: G
+- Capo: None
+
+## Chords
 ```
 Tuning:
 [E]Ke[A]y:[D][G][B][E]
@@ -66,4 +72,3 @@ The [D]Ring Of [G]Fire
 And It Burns, Burns, Burns
 The [D]Ring Of [G]Fire
 The [D]Ring Of [G]Fire (repeat until fade)
-```

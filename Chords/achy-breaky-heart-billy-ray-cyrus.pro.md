@@ -1,7 +1,8 @@
 # Achy Breaky Heart
-Artist: Billy Ray Cyrus
-Key: G
-Capo: None
+
+- Artist: Billy Ray Cyrus
+- Key: G
+- Capo: None
 
 ## Chords
 ```
