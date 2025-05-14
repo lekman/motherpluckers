@@ -1,3 +1,4 @@
+```
 Tuning:
 [E]Ke[A]y:[D][G][B][E]
 [A]Capo:
@@ -95,3 +96,4 @@ Everybody at the bar gettin' tipsy (Woo)
 {comment: Outro}
 N.C.
 That's fuckin' messed up, bro, they kicked me out the bar
+```

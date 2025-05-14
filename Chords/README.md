@@ -1,63 +1,64 @@
 # Chords Directory
 
-This directory contains chord charts and lyrics for all songs in our repertoire. Each song is stored in its own markdown file following our standard format.
+This directory contains chord charts and lyrics for all songs in our repertoire. Each song is stored in a markdown file with the `.pro.md` extension.
 
 ## Song Library
 
-| Song Title                  | Artist                       | Status   | ProChords                                                  | Ultimate Guitar                                                                                  | Notes                       | YouTube                                                 |
-| --------------------------- | ---------------------------- | -------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------- | ------------------------------------------------------- |
-| Bar Song                    | Shaboozey                    | Ready    | [ProChords](bar-song-shaboozey.pro.md)                     | [Link](https://tabs.ultimate-guitar.com/tab/shaboozey/bar-song-chords)                           | High energy opener          | [Original](https://www.youtube.com/watch?v=4hKh9nydCsY) |
-| The Gambler                 | Kenny Rogers                 | Ready    | [ProChords](the-gambler-kenny-rogers.pro.md)               | [Link](https://tabs.ultimate-guitar.com/tab/kenny-rogers/the-gambler-chords)                     | Classic singalong           | [Original](https://www.youtube.com/watch?v=7hx4gdlfamo) |
-| I Will Wait                 | Garth Brooks                 | Learning | [ProChords](i-will-wait-garth-brooks.pro.md)               | [Link](https://tabs.ultimate-guitar.com/tab/garth-brooks/i-will-wait-chords)                     | Perfect crowd pleaser       | [Original](https://www.youtube.com/watch?v=K9g-Yj8vcqk) |
-| Jolene                      | Dolly Parton                 | To Learn | [ProChords](jolene-dolly-parton.pro.md)                    | [Link](https://tabs.ultimate-guitar.com/tab/dolly-parton/jolene-chords)                          | Follow with joke about exes | [Original](https://www.youtube.com/watch?v=Ixrje2rXLMA) |
-| Every Rose Has Its Thorn    | Poison                       | Ready    | [ProChords](every-rose-has-its-thorn-poison.pro.md)        | [Link](https://tabs.ultimate-guitar.com/tab/poison/every-rose-has-its-thorn-chords)              | Country-rock crossover      | [Original](https://www.youtube.com/watch?v=JkK8g6FMEXE) |
-| Man! I Feel Like A Woman    | Shania Twain                 | Learning | [ProChords](man-i-feel-like-a-woman-shania-twain.pro.md)   | [Link](https://tabs.ultimate-guitar.com/tab/shania-twain/man-i-feel-like-a-woman-chords-1839726) | Post-costume change impact  |
-| Take Me Home, Country Roads | John Denver                  | To Learn | [ProChords](take-me-home-country-roads-john-denver.pro.md) | [Link](https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords)       | Massive singalong potential |
-| Ring of Fire                | Johnny Cash                  | To Learn | [ProChords](ring-of-fire-johnny-cash.pro.md)               | [Link](https://tabs.ultimate-guitar.com/tab/johnny-cash/ring-of-fire-chords)                     | Change tempo mid-song       |
-| Achy Breaky Heart           | Billy Ray Cyrus              | Learning | [ProChords](achy-breaky-heart-billy-ray-cyrus.pro.md)      | [Link](https://tabs.ultimate-guitar.com/tab/billy-ray-cyrus/achy-breaky-heart-chords)            | Line dancing segment        |
-| Wagon Wheel                 | Old Crow Medicine Show       | To Learn | [ProChords](wagon-wheel-old-crow-medicine-show.pro.md)     | [Link](https://tabs.ultimate-guitar.com/tab/old-crow-medicine-show/wagon-wheel-chords)           | Crowd favorite              |
-| Tennessee Whiskey           | Chris Stapleton              | To Learn | [ProChords](tennessee-whiskey-chris-stapleton.pro.md)      | [Link](https://tabs.ultimate-guitar.com/tab/chris-stapleton/tennessee-whiskey-chords)            | "Something for the ladies"  | [Original](https://www.youtube.com/watch?v=4zAThXFO_2c) |
-| It's Five O'Clock Somewhere | Alan Jackson & Jimmy Buffett | To Learn | [ProChords](its-five-oclock-somewhere-alan-jackson.pro.md) | [Link](https://tabs.ultimate-guitar.com/tab/alan-jackson/its-five-oclock-somewhere-chords)       | Bring out drink props       |
-| Beer Never Broke My Heart   | Luke Combs                   | To Learn | [ProChords](beer-never-broke-my-heart-luke-combs.pro.md)   | [Link](https://tabs.ultimate-guitar.com/tab/luke-combs/beer-never-broke-my-heart-chords)         | Acoustic with foot stomps   |
-| Renegades                   | X Ambassadors                | To Learn | [ProChords](renegades-x-ambassadors.pro.md)                | [Link](https://tabs.ultimate-guitar.com/tab/x-ambassadors/renegades-chords)                      | High energy finale          |
-| Green Green Grass           | George Ezra                  | To Learn | [ProChords](green-green-grass-george-ezra.pro.md)          | [Link](https://tabs.ultimate-guitar.com/tab/george-ezra/green-green-grass-chords)                | Perfect encore song         |
+| Song Title                  | Artist                       | Status   | ProChords                                           | Ultimate Guitar                                                                                | YouTube                                           | Notes                       |
+| --------------------------- | ---------------------------- | -------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------- |
+| Bar Song                    | Shaboozey                    | Ready    | [🎵](bar-song-shaboozey.pro.md)                     | [🌐](https://tabs.ultimate-guitar.com/tab/shaboozey/a-bar-song-tipsy-chords-5223882)           | [🎥](https://www.youtube.com/watch?v=WJZfRCLnZ8Q) | High energy opener          |
+| The Gambler                 | Kenny Rogers                 | Ready    | [🎵](the-gambler-kenny-rogers.pro.md)               | [🌐](https://tabs.ultimate-guitar.com/tab/kenny-rogers/the-gambler-chords)                     | [🎥](https://www.youtube.com/watch?v=7hx4gdlfamo) | Classic singalong           |
+| I Will Wait                 | Garth Brooks                 | Learning | [🎵](i-will-wait-garth-brooks.pro.md)               | [🌐](https://tabs.ultimate-guitar.com/tab/garth-brooks/i-will-wait-chords)                     | [🎥](https://www.youtube.com/watch?v=K9g-Yj8vcqk) | Perfect crowd pleaser       |
+| Jolene                      | Dolly Parton                 | To Learn | [🎵](jolene-dolly-parton.pro.md)                    | [🌐](https://tabs.ultimate-guitar.com/tab/dolly-parton/jolene-chords)                          | [🎥](https://www.youtube.com/watch?v=Ixrje2rXLMA) | Follow with joke about exes |
+| Every Rose Has Its Thorn    | Poison                       | Ready    | [🎵](every-rose-has-its-thorn-poison.pro.md)        | [🌐](https://tabs.ultimate-guitar.com/tab/poison/every-rose-has-its-thorn-chords)              | [🎥](https://www.youtube.com/watch?v=JkK8g6FMEXE) | Country-rock crossover      |
+| Man! I Feel Like A Woman    | Shania Twain                 | Learning | [🎵](man-i-feel-like-a-woman-shania-twain.pro.md)   | [🌐](https://tabs.ultimate-guitar.com/tab/shania-twain/man-i-feel-like-a-woman-chords-1839726) | [🎥](https://www.youtube.com/watch?v=ZJL4UGSbeFg) | Post-costume change impact  |
+| Take Me Home, Country Roads | John Denver                  | To Learn | [🎵](take-me-home-country-roads-john-denver.pro.md) | [🌐](https://tabs.ultimate-guitar.com/tab/john-denver/take-me-home-country-roads-chords)       | [🎥](https://www.youtube.com/watch?v=1vrEljMfXYo) | Massive singalong potential |
+| Ring of Fire                | Johnny Cash                  | To Learn | [🎵](ring-of-fire-johnny-cash.pro.md)               | [🌐](https://tabs.ultimate-guitar.com/tab/johnny-cash/ring-of-fire-chords)                     | [🎥](https://www.youtube.com/watch?v=It7107ELQvY) | Change tempo mid-song       |
+| Achy Breaky Heart           | Billy Ray Cyrus              | Learning | [🎵](achy-breaky-heart-billy-ray-cyrus.pro.md)      | [🌐](https://tabs.ultimate-guitar.com/tab/billy-ray-cyrus/achy-breaky-heart-chords)            | [🎥](https://www.youtube.com/watch?v=byQIPdHMpjc) | Line dancing segment        |
+| Wagon Wheel                 | Old Crow Medicine Show       | To Learn | [🎵](wagon-wheel-old-crow-medicine-show.pro.md)     | [🌐](https://tabs.ultimate-guitar.com/tab/old-crow-medicine-show/wagon-wheel-chords)           | [🎥](https://www.youtube.com/watch?v=hvKyBcCDOB4) | Crowd favorite              |
+| Tennessee Whiskey           | Chris Stapleton              | To Learn | [🎵](tennessee-whiskey-chris-stapleton.pro.md)      | [🌐](https://tabs.ultimate-guitar.com/tab/chris-stapleton/tennessee-whiskey-chords)            | [🎥](https://www.youtube.com/watch?v=4zAThXFO_2c) | "Something for the ladies"  |
+| It's Five O'Clock Somewhere | Alan Jackson & Jimmy Buffett | To Learn | [🎵](its-five-oclock-somewhere-alan-jackson.pro.md) | [🌐](https://tabs.ultimate-guitar.com/tab/alan-jackson/its-five-oclock-somewhere-chords)       | [🎥](https://www.youtube.com/watch?v=5DMtfW3fIDU) | Bring out drink props       |
+| Beer Never Broke My Heart   | Luke Combs                   | To Learn | [🎵](beer-never-broke-my-heart-luke-combs.pro.md)   | [🌐](https://tabs.ultimate-guitar.com/tab/luke-combs/beer-never-broke-my-heart-chords)         | [🎥](https://www.youtube.com/watch?v=5DMtfW3fIDU) | Acoustic with foot stomps   |
+| Renegades                   | X Ambassadors                | To Learn | [🎵](renegades-x-ambassadors.pro.md)                | [🌐](https://tabs.ultimate-guitar.com/tab/x-ambassadors/renegades-chords)                      | [🎥](https://www.youtube.com/watch?v=5DMtfW3fIDU) | High energy finale          |
+| Green Green Grass           | George Ezra                  | To Learn | [🎵](green-green-grass-george-ezra.pro.md)          | [🌐](https://tabs.ultimate-guitar.com/tab/george-ezra/green-green-grass-chords)                | [🎥](https://www.youtube.com/watch?v=5DMtfW3fIDU) | Perfect encore song         |
 
-## Guidelines
+## File Format
 
-### File Naming Convention
+Each song file follows this standard format:
 
-- Use lowercase
-- Replace spaces with hyphens
-- Include artist name
-- Use `.pro.md` extension for chord files
-- Example: `bar-song-shaboozey.pro.md`
-
-### File Format
-
-Each chord file should follow this structure:
-
-```markdown
+```
 # Song Title
 
-Artist: [Artist Name]
-Key: [Original Key]
-Capo: [Capo Position if needed]
+Artist: Artist Name
+Key: Key
+Capo: Position
 
 ## Chords
 
-[ChordPro formatted content goes here]
+[ProChords content]
 
 ## Notes
 
 - Performance notes
-- Special arrangements
-- Guest musician parts
+- Special instructions
+- Arrangement details
 
 ## References
 
 - [Ultimate Guitar Tab](link)
 - [YouTube - Original](link)
 ```
+
+## File Naming Convention
+
+Files are named using the following format:
+
+- Lowercase
+- Hyphens instead of spaces
+- Include artist name
+- `.pro.md` extension
+
+Example: `bar-song-shaboozey.pro.md`
 
 ### Converting Ultimate Guitar Tabs to ProChords
 
