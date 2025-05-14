@@ -8,7 +8,7 @@ Tuning:
 1st fret
 
 ## Chords
-
+```
 "Main Riff" (Relative to the Capo) - (A,A,A,F#,E,A,A)
 
 e|-------------------------------|
@@ -141,3 +141,4 @@ Outro:
 A , G , D  X3
 
 [A]
+```
