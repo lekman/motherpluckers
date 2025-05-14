@@ -1,15 +1,13 @@
-# Man, I Feel Like a Woman!
+# Man! I Feel Like a Woman
 - Artist: Shania Twain
 - Key: A
 - Capo: 1st fret
 
-## Chords
-
-```
 Tuning:
 [E]Ca[A]po[D]:[G][B][E]
 1st fret
-Intro:
+
+## Chords
 
 "Main Riff" (Relative to the Capo) - (A,A,A,F#,E,A,A)
 
@@ -143,4 +141,3 @@ Outro:
 A , G , D  X3
 
 [A]
-```

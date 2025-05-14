@@ -1,10 +1,16 @@
-```
+# Take Me Home, Country Roads
+- Artist: John Denver
+- Key: A
+- Capo: 2nd fret
+
 Tuning:
 [E]Ke[A]y:[D][G][B][E]
 [A]Capo:
 2nd fret
 Take Me Home, Country Roads
 by John Denver
+
+## Chords
 
 Capo 2
 
