@@ -14,7 +14,7 @@ This document contains our set list for the summer festival appearance. As the o
 | ----- | -------------------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------------- |
 | 1     | [Bar Song](../Chords/bar-song-shaboozey.pro.md)                                        | Shaboozey                    | Opening song - high energy 🥁 (drums) 🪗 (harmonica for fiddle fills) |
 | 2     | [The Gambler](../Chords/the-gambler-kenny-rogers.pro.md)                               | Kenny Rogers                 | Classic singalong 🪗 (harmonica)                                      |
-| 3     | [I will wait](../Chords/i-will-wait-garth-brooks.pro.md)                               | Garth Brooks                 | Perfect crowd pleaser                                                 |
+| 3     | [I will wait](../Chords/i-will-wait-mumford-sons.pro.md)                               | Mumford & Sons               | Perfect crowd pleaser                                                 |
 | 4     | [Jolene](../Chords/jolene-dolly-parton.pro.md)                                         | Dolly Parton                 | Follow with joke about exes                                           |
 | 5     | [Every Rose Has Its Thorn](../Chords/every-rose-has-its-thorn-poison.pro.md)           | Poison                       | Country-rock crossover 🪗 (harmonica solo)                            |
 | 6     | _INTERVAL_                                                                             |                              | Hat joke segment & costume change                                     |
