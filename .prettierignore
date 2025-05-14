@@ -1,0 +1,11 @@
+# Ignore ChordPro files
+*.pro.md
+
+# Ignore build and dependency directories
+node_modules/
+dist/
+build/
+
+# Ignore package files
+package-lock.json
+yarn.lock 
