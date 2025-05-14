@@ -6,7 +6,11 @@ Capo: None
 
 ## Chords
 
-[Paste ProChords content here]
+```
+Tuning: [E][A][D][G][B][E]
+
+{comment: ProChords content goes here}
+```
 
 ## Notes
 

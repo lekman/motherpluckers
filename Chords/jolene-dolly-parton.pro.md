@@ -1,9 +1,11 @@
+# Jolene
+Artist: Dolly Parton
+Key: Cm
+Capo: 3rd fret
+
+## Chords
 ```
-Tuning:
-[E]Ke[A]y:[D][G][B][E]
-[Cm]Capo:
-3rd fret
-CAPO 3
+Tuning: [E][A][D][G][B][E]
 
 {comment: Intro}
 Am x6
@@ -59,5 +61,14 @@ Jo[Am]lene, Jo[C]lene, Jo[G/B]lene, Jo[Am]lene
 
 {comment: Outro}
 Jo[Am]lene ... Jolene
-
 ```
+
+## Notes
+- Classic country ballad
+- Iconic Dolly Parton song
+- Emotional storytelling
+- Great for acoustic sets
+
+## References
+- [Ultimate Guitar Tab](https://tabs.ultimate-guitar.com/tab/dolly-parton/jolene-chords-627779)
+- [YouTube](https://www.youtube.com/watch?v=WJZfRCLnZ8Q)

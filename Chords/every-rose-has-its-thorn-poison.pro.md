@@ -1,14 +1,11 @@
-```
-Tuning:
-[Eb]Key[Ab]:[Db][Gb][Bb][Eb]
-[F#]Capo:
-no capo
-Tune all strings down 1/2 step.
-eb|-[G]3----[Cadd9]3------[D]2----[Em]0-----[C]x--|
-[Bb|-3----3------3----0-----1--|]Gb|-0----0------2----0-----0--|
-[Db|-0----2------0----2-----2--|]Ab|-2----3------x----2-----3--|
-[Eb|-3----x------x----0-----0--|]
+# Every Rose Has Its Thorn
+Artist: Poison
+Key: F#
+Capo: None (Tune all strings down 1/2 step)
 
+## Chords
+```
+Tuning: [Eb][Ab][Db][Gb][Bb][Eb]
 
 {comment: Intro}
 [G] [Cadd9][G][Cadd9]
@@ -70,6 +67,7 @@ Just like eve[G]ry cow[D]boy sings a sa[C]d, sad s[G]ong.
 E[G]very rose has its th[C]orn.
 {end_of_chorus}
 
+{comment: Outro}
 eb|----------------[G]3---------|
 [Bb|----------------3---------|]Gb|----------------0---------|
 [Db|---------0------0---------|]Ab|------0---------2---------|
@@ -77,3 +75,13 @@ eb|----------------[G]3---------|
 
 Arpeggiate last chord
 ```
+
+## Notes
+- 80s power ballad
+- Half-step down tuning
+- Great for acoustic sets
+- Emotional delivery important
+
+## References
+- [Ultimate Guitar Tab](https://tabs.ultimate-guitar.com/tab/poison/every-rose-has-its-thorn-chords-627779)
+- [YouTube](https://www.youtube.com/watch?v=WJZfRCLnZ8Q)
