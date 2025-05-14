@@ -1,7 +1,7 @@
 # Renegades
-Artist: X Ambassadors
-Key: G
-Capo: None
+- Artist: X Ambassadors
+- Key: G
+- Capo: None
 
 ## Chords
 ```
