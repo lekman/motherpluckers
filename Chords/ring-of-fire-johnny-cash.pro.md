@@ -1,7 +1,7 @@
 # Ring of Fire
 - Artist: Johnny Cash
 - Key: G
-- Capo: None
+- Capo: 2
 
 ## Chords
 ```
