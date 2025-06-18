@@ -10,25 +10,18 @@ This document contains our set list for the summer festival appearance. As the o
 
 ## Set List
 
-| Order | Song Title                                                                             | Artist                       | Notes                                                                 |
-| ----- | -------------------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------------- |
-| 1     | [Bar Song](../Chords/bar-song-shaboozey.pro.md)                                        | Shaboozey                    | Opening song - high energy 🥁 (drums) 🪗 (harmonica for fiddle fills) |
-| 2     | [The Gambler](../Chords/the-gambler-kenny-rogers.pro.md)                               | Kenny Rogers                 | Classic singalong 🪗 (harmonica)                                      |
-| 3     | [I will wait](../Chords/i-will-wait-mumford-sons.pro.md)                               | Mumford & Sons               | Perfect crowd pleaser                                                 |
-| 4     | [Jolene](../Chords/jolene-dolly-parton.pro.md)                                         | Dolly Parton                 | Follow with joke about exes                                           |
-| 5     | [Every Rose Has Its Thorn](../Chords/every-rose-has-its-thorn-poison.pro.md)           | Poison                       | Country-rock crossover 🪗 (harmonica solo)                            |
-| 6     | _INTERVAL_                                                                             |                              | Hat joke segment & costume change                                     |
-| 7     | [Man! I Feel Like A Woman](../Chords/man-i-feel-like-a-woman-shania-twain.pro.md)      | Shania Twain                 | Post-costume change impact 🥁 (drums)                                 |
-| 8     | [Take Me Home, Country Roads](../Chords/take-me-home-country-roads-john-denver.pro.md) | John Denver                  | Massive singalong potential                                           |
-| 9     | [Ring of Fire](../Chords/ring-of-fire-johnny-cash.pro.md)                              | Johnny Cash                  | Change tempo mid-song 🪗 (harmonica) 🥁 (drums)                       |
-| 10    | [Achy Breaky Heart](../Chords/achy-breaky-heart-billy-ray-cyrus.pro.md)                | Billy Ray Cyrus              | Line dancing segment 🥁 (drums)                                       |
-| 11    | _INTERVAL_                                                                             |                              | Banjo tuning joke                                                     |
-| 12    | [Wagon Wheel](../Chords/wagon-wheel-old-crow-medicine-show.pro.md)                     | Old Crow Medicine Show       | Crowd favorite 🪕 (Guest banjo player)                                |
-| 13    | [Tennessee Whiskey](../Chords/tennessee-whiskey-chris-stapleton.pro.md)                | Chris Stapleton              | "Something for the ladies"                                            |
-| 14    | [It's Five O'Clock Somewhere](../Chords/its-five-oclock-somewhere-alan-jackson.pro.md) | Alan Jackson & Jimmy Buffett | Bring out drink props 🪕 (Guest banjo player)                         |
-| 15    | [Beer Never Broke My Heart](../Chords/beer-never-broke-my-heart-luke-combs.pro.md)     | Luke Combs                   | Acoustic with cajun foot stomp drums 🪗 (harmonica) 🥁 (foot stomps)  |
-| 16    | [Renegades](../Chords/renegades-x-ambassadors.pro.md)                                  | X Ambassadors                | High energy finale                                                    |
-| 17    | [Green Green Grass](../Chords/green-green-grass-george-ezra.pro.md)                    | George Ezra                  | Perfect encore song                                                   |
+| Order | Song Title                                                                             | Artist                 | Notes                                                                 |
+| ----- | -------------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------- |
+| 1     | [Bar Song](../Chords/bar-song-shaboozey.pro.md)                                        | Shaboozey              | Opening song - high energy 🥁 (drums) 🪗 (harmonica for fiddle fills) |
+| 2     | [I will wait](../Chords/i-will-wait-mumford-sons.pro.md)                               | Mumford & Sons         | Perfect crowd pleaser                                                 |
+| 3     | [Jolene](../Chords/jolene-dolly-parton.pro.md)                                         | Dolly Parton           | Follow with joke about exes                                           |
+| 4     | [Every Rose Has Its Thorn](../Chords/every-rose-has-its-thorn-poison.pro.md)           | Poison                 | Country-rock crossover 🪗 (harmonica solo)                            |
+| 5     | [Take Me Home, Country Roads](../Chords/take-me-home-country-roads-john-denver.pro.md) | John Denver            | Massive singalong potential                                           |
+| 6     | [Ring of Fire](../Chords/ring-of-fire-johnny-cash.pro.md)                              | Johnny Cash            | Change tempo mid-song 🪗 (harmonica) 🥁 (drums)                       |
+| 7     | [Achy Breaky Heart](../Chords/achy-breaky-heart-billy-ray-cyrus.pro.md)                | Billy Ray Cyrus        | Line dancing segment 🥁 (drums)                                       |
+| 8     | [Wagon Wheel](../Chords/wagon-wheel-old-crow-medicine-show.pro.md)                     | Old Crow Medicine Show | Crowd favorite 🪕 (Guest banjo player)                                |
+| 9     | [Tennessee Whiskey](../Chords/tennessee-whiskey-chris-stapleton.pro.md)                | Chris Stapleton        | "Something for the ladies"                                            |
+| 10    | [Green Green Grass](../Chords/green-green-grass-george-ezra.pro.md)                    | George Ezra            | Perfect encore song                                                   |
 
 ## Equipment Notes
 
