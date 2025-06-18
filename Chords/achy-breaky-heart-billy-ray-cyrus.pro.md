@@ -1,15 +1,15 @@
 # Achy Breaky Heart
 
 - Artist: Billy Ray Cyrus
-- Key: G
 - Capo: None
 
 ## Chords
-```
-Tuning:
-[E]Ke[A]y:[D][G][B][E]
-[A]Capo:
-no capo
+```prochords
+{title:Achy Breaky Heart}
+{subtitle:Billy Ray Cyrus}
+{c: No capo}
+
+
 {comment: Intro}
 [A]
 
@@ -34,11 +34,10 @@ But [A]don't tell my heart, my achy breaky heart
 I just don't think he'd under[E]stand
 And [E]if you tell my heart, my achy breaky heart
 He might blow up and kill this [A]man
-Uuu[A]uuuuu..
 {end_of_chorus}
 
 
-{comment: Instrumental}
+{comment: Instrumental/Harmonica}
 |(A)  | A   | A   | E   |
 | E   | E   | E   | A   |
 
@@ -64,11 +63,10 @@ But [A]don't tell my heart, my achy breaky heart
 I just don't think he'd under[E]stand
 And [E]if you tell my heart, my achy breaky heart
 He might blow up and kill this [A]man
-Uuu[A]uuuuu..
 {end_of_chorus}
 
 
-{comment: Instrumental}
+{comment: Instrumental/Harmonica}
 |(A)  | A   | A   | E   |
 | E   | E   | E   | A   |
 
@@ -88,13 +86,4 @@ I just don't think he'd understand
 And if you tell my heart, my achy breaky heart
 
 He might blow up and kill this man
-Uuu[A]uuuuu..
-
-
-{comment: Outro}
-|(A)  | A   | A   | E   |
-| E   | E   | E   | A   |
-
-| A   | A   | A   | E   |
-| E   | E   | E   | A
 ```
