@@ -5,11 +5,11 @@
 - Capo: None
 
 ## Chords
-```
-Tuning:
-[E]Ke[A]y:[D][G][B][E]
-[Ab]Capo:
-1st fret
+```prochords
+{title:Green Green Grass}
+{subtitle:George Ezra}
+{c: No capo}
+
 {comment: Intro}
 | G  | Em G | C G | Dsus4  |
 
