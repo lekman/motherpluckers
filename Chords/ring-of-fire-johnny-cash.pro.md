@@ -4,11 +4,11 @@
 - Capo: 2
 
 ## Chords
-```
-Tuning:
-[E]Ke[A]y:[D][G][B][E]
-[G]Capo:
-no capo
+```prochords
+{title:Ring of Fire}
+{subtitle:Johnny Cash}
+{c: Capo 3}
+
 {comment: Intro}
 [G] [C][G][G][D][G]
 
@@ -72,3 +72,4 @@ The [D]Ring Of [G]Fire
 And It Burns, Burns, Burns
 The [D]Ring Of [G]Fire
 The [D]Ring Of [G]Fire (repeat until fade)
+```
