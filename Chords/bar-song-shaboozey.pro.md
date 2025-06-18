@@ -1,86 +1,83 @@
 # A Bar Song (Tipsy)
 - Artist: Shaboozey
-- Key: D
 - Capo: 2nd fret
 
-## Chords
+## ProChords
 ```
-Tuning: [E][A][D][G][B][E]
+{title:Tipsy}
+{subtitle:Shaboozey}
 
-{comment: Intro}
-[Em]Em  [G]G  [C/G]C/G  [G]G [D/F#]D/F#
+{c:Capo 2}
 
-{start_of_verse}
-My [Em]baby want a [G]Birkin, she's been [C/G]tellin' me all night [G]long[D/F#]
-[Em]Gasoline and [G]groceries,  [C/G]list goes on and [G]on[D/F#]
-This [Em]9 to 5 ain't [G]workin', why the [C/G]hell do I work so [G]hard?[D/F#]
-I can't [Em]worry 'bout my [G]problems, I can't [C/G]take 'em when I'm [G]gone[D/F#]
-{end_of_verse}
+{c:Intro} 
+[Em] [G] [C/G] [G] [D/F#] 
+x2
 
-{comment: Pre-Chorus}
-[Em]One, here comes the [G]two, to the three, to the [C/G]four
-Tell 'em "Bring a[G]nother round", [D/F#]we need plenty [Em]more
-Two steppin' on the [G]table, she don't need a dance [C/G]floor
-Oh my,[G]good Lord
+{c:Verse 1}
+My [Em]baby want a B[G]irkin, she's be[C/G]en tellin' me all night[G] long [D/F#]
+[Em]Gasoline and g[G]roceries, [C/G]list goes on and [G]on [D/F#]
+This [Em]9 to 5 ain't[G] workin', why t[C/G]he hell do I work so [G]hard? [D/F#]
+I can't[Em] worry 'bout [G]my problems, [C/G]I can't take 'em [G]when [D/F#]I'm gone
 
-{start_of_chorus}
-[Em]Someone pour me up a [G]double shot of whiskey
-[C/G]They know me and Jack [G]Daniels got a [D/F#]history
-[Em]Therе's a party down[G]town, near 5th Street
-[C/G]Everybody at the [G]bar gеttin' [D/F#]tipsy[Em][G]
-[C/G]Everybody at the [G]bar gettin' [D/F#]tipsy[Em][G]
-[C/G]Everybody at the [G]bar gettin' [D/F#]tipsy
-{end_of_chorus}
+{c:Pre-Chorus} {c:Muted}
+[Em]One, here comes the [G]two, to the three, to th[C/G]e four
+Tell 'em "Brin[G]g another rou[D/F#]nd", we need p[Em]lenty more
+Two steppin' on the[G] table, she don't need [C/G]a dance floor
+Oh my, [G]good Lord
 
-{start_of_verse}
-[Em]I been Boozey since I [G]left, I ain't changin' for a [C/G]check
-Tell my ma, I ain't for[G]get (Oh, Lord, uh)
-[Em]Woke up drunk at 10 a.[G]m., we gon' do this shit a[C/G]gain
-Tell your girl to bring a [G]friend ([D/F#]Oh, Lord)
-{end_of_verse}
+{c:Chorus}
+[Em]Someone pour me up a[G] double shot of whiskey
+[C/G]They know me and Jac[G]k Daniels got a[D/F#] history
+[Em]There's a party do[G]wntown, near 5th Street
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy [Em] [G]
+{c:Harmonica/Violin Fill}
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy [Em] [G]
+{c:Harmonica/Violin Fill}
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy
 
-{comment: Pre-Chorus}
-[Em]One, here comes the [G]two, to the three, to the [C/G]four
-Tell 'em "Bring a[G]nother round", [D/F#]we need plenty [Em]more
-Two steppin' on the [G]table, she don't need a dance [C/G]floor
-Oh my,[G]good Lord
+{c:Verse 2} {c:Muted}
+[Em]I been Boozey sinc[G]e I left, I ain't changin'[C/G] for a check
+Tell my ma, I ain't [G]forget (Oh, Lord, uh)
+[Em]Woke up drunk at 10 a[G].m., we gon' do this sh[C/G]it again
+Tell your girl to b[G]ring a[D/F#] friend (Oh, Lord)
 
-{start_of_chorus}
-[Em]Someone pour me up a [G]double shot of whiskey (A double shot of whiskey)
-[C/G]They know me and Jack [G]Daniels got a [D/F#]history (We go way back)
-[Em]Therе's a party down[G]town, near 5th Street
-[C/G]Everybody at the [G]bar gеttin' [D/F#]tipsy [Em](Woo[G])
-[C/G]Everybody at the [G]bar gettin' [D/F#]tipsy [Em](At [G]the bar gettin' tipsy)
-[C/G]Everybody at the [G]bar gettin' [D/F#]tipsy
-{end_of_chorus}
+{c:Pre-Chorus}
+[Em]One, here comes the [G]two, to the three, to th[C/G]e four
+Tell 'em "Brin[G]g another rou[D/F#]nd", we need p[Em]lenty more
+Two steppin' on the[G] table, she don't need [C/G]a dance floor
+Oh my, [G]good Lord
 
-{comment: Bridge}
-[Em]One, here comes the [G]two, to the three, to the [C/G]four
-When it's last [G]call and they [D/F#]kick us out the [Em]door
-It's gettin' kind of [G]late but the ladies want some [C/G]more
-N.C.
+{c:Chorus}
+[Em]Someone pour me up a[G] double shot of whiskey (A double shot of whiskey)
+[C/G]They know me and Jac[G]k Daniels got a[D/F#] history (We go way back)
+[Em]There's a party do[G]wntown, near 5th Street
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy (Woo) [Em] [G]
+{c:Harmonica/Violin Fill}
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy (At t[Em]he bar getti[G]n' tipsy)
+{c:Harmonica/Violin Fill}
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy
+
+{c:Bridge}
+[Em]One, here comes the [G]two, to the three, to th[C/G]e four
+When it's la[G]st call an[D/F#]d they kick us o[Em]ut the door
+It's gettin' ki[G]nd of late but the ladies wa[C/G]nt some more
+
 Oh my, good Lord (Tell 'em drink some more)
 
-{start_of_chorus}
-N.C.
-Someone pour me up a double shot of whiskey (A double shot of whiskey)
-N.C.
-They know me and Jack Daniels got a history (Way back)
-N.C.
-There's a party downtown, near 5th Street (Come on)
-N.C.
-Everybody at the bar gettin' tipsy (Woo)
-[Em]Someone pour me up a [G]double shot of whiskey (A double shot of whiskey)
-[C/G]They know me and Jack [G]Daniels got a [D/F#]history (History)
-[Em]At the bottom of a [G]bottle gon' miss me (Bet you gon' miss me)
-[C/G]Everybody at the [G]bar gettin' [D/F#]tipsy (At the bar gettin' tipsy)[Em][G]
-[C/G]Everybody at the [G]bar gettin' [D/F#]tipsy[Em][G]
-[C/G]Everybody at the [G]bar gettin' [N.C.]tipsy
-{end_of_chorus}
+{c:Chorus} {c:Only vocals, foot stomp}
+Someone pour me up a double shot of whiskey
+They know me and Jack Daniels got a history 
+There's a party downtown, near 5th Street
+Everybody at the bar gettin' tipsy
 
-{comment: Outro}
-N.C.
-That's fuckin' messed up, bro, they kicked me out the bar
+{c:Repeat chorus, with guitar}
+[Em]Someone pour me up a[G] double shot of whiskey (A double shot of whiskey)
+[C/G]They know me and Jac[G]k Daniels got a[D/F#] history (History)
+[Em]At the bottom of a bo[G]ttle gon' miss me (Bet you gon' miss me)
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy (At the bar gettin' tipsy[Em]) [G]
+[C/G]Everybody at the bar[G] gettin' t[D/F#]ipsy [Em] [G]
+[C/G]Everybody at the bar[G] gettin' tipsy
+
 ```
 
 ## Notes
