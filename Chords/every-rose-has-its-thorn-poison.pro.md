@@ -4,11 +4,14 @@
 - Capo: None (Tune all strings down 1/2 step)
 
 ## Chords
-```
-Tuning: [Eb][Ab][Db][Gb][Bb][Eb]
+```prochords
+{title:Every Rose Has It's Thorns}
+{subtitle:Brett Michaels}
 
-{comment: Intro}
-[G] [Cadd9][G][Cadd9]
+{c: No capo}
+
+{c: Intro}
+[G]G [Cadd9]C [G]G [Cadd9]C
 
 {start_of_verse}
 [G]We both lie silently still, in the [Cadd9]dead of the night.
@@ -47,11 +50,9 @@ E[G]very rose has its th[C]orn.
 [Em]  Though it's been a w[D]hile now, I can s[C]till feel so much p[G]ain.
 [Em] Like a knife that c[D]uts you the wound heals[C], but the scar, that scar remains
 
-{comment: Solo}
-[G]Em   [Cadd9]D      [G]C   [Cadd9]G
-[Em] [D][C][C]
-
-[G] [Cadd9][G][Cadd9]
+{comment: Solo Harmonica}
+[G]G [Cadd9]C [G]G [Cadd9]C
+[Em]Em   [D]D      [G]C   [Cadd9]G
 
 {start_of_verse}
 I k[G]now I coulda saved our love that night if I'd[Cadd9]known what to say.
@@ -66,14 +67,6 @@ Just like e[G]very night has its [Cadd9]dawn.
 Just like eve[G]ry cow[D]boy sings a sa[C]d, sad s[G]ong.
 E[G]very rose has its th[C]orn.
 {end_of_chorus}
-
-{comment: Outro}
-eb|----------------[G]3---------|
-[Bb|----------------3---------|]Gb|----------------0---------|
-[Db|---------0------0---------|]Ab|------0---------2---------|
-[Eb|-0-2--------0---3---------|]
-
-Arpeggiate last chord
 ```
 
 ## Notes
