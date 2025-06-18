@@ -5,11 +5,11 @@
 - Capo: None
 
 ## Chords
-```
-Tuning:
-[E]Ke[A]y:[D][G][B][E]
-[A]Capo:
-2nd fret
+```prochords
+{title:Wagon Wheel}
+{subtitle:Old Crow Medicine Show}
+{c: No capo}
+
 {comment: Intro}
 [G]G  [D]D  [Em]Em  [C]C
 [G] [D][C]
