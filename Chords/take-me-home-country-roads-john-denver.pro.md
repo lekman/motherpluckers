@@ -10,10 +10,12 @@ Tuning:
 Take Me Home, Country Roads
 by John Denver
 
-## Chords
+## ProChords
 
-Capo 2
-
+```prochords
+{title:Take Me Home, Country Roads}
+{subtitle:John Denver}
+{c: No capo}
 
 {comment: Intro}
 [G] [G/D][x4]
@@ -46,15 +48,16 @@ And [Em]drivin' down the [F]road I get a [C]feelin' that I [G]should have been h
 [D]yesterday, yester[D7]day.
 
 {start_of_chorus}
+{c: Song only}
 Country [G]Roads, take me [D]home, to the [Em]place I be[C]long
 West Vir[G]ginia, mountain [D]mama, take me [C]home, country [G]roads.
 {end_of_chorus}
 
+{c: Guitar}
 Country [G]Roads, take me [D]home, to the [Em]place I be[C]long
 West Vir[G]ginia, mountain [D]mama, take me [C]home, country [G]roads.
 
 {comment: Outro}
 Take me [D]home, (down) country [G]roads.
 Take me [D]home, (down) country [G]roads.
-
 ```
