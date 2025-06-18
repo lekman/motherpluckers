@@ -3,10 +3,12 @@ Artist: Mumford & Sons
 Key: C
 Capo: 1st fret
 
-## Chords
+## ProChords
 ```
-Tuning: [E][A][D][G][B][E]
-Capo: 1st fret
+{title:I Will Wait}
+{subtitle:Mumford & Sons}
+
+{c: No capo}
 
 {comment: Intro}
 [Am]Am    [G/B]G/B   [C]C  [F]F  [C]C  [G]G
@@ -15,8 +17,8 @@ Capo: 1st fret
 [C]I came home
 Like a st[F]one
 And I fell he[C]avy into your a[G2]rms
-These days[C]of dust
-Which we've[F]known
+These days[C] of dust
+Which we've [F]known
 Will blow [C]away with this new [G2]sun
 {end_of_verse}
 
@@ -63,7 +65,8 @@ And [Am]I'll kn[G/B]eel do[C]wn
 Know[F] my g[C]roun[G]d
 
 {comment: Bridge}
- [C][G/B][Am][F][C][G][x2]
+[Am]Am    [G/B]G/B   [C]C  [F]F  [C]C  [G]G
+[x2]
 
 R[C]aise [G/B]my h[Am]ands
 P[F]aint my spi[C]rit gold[G]
